@@ -1,9 +1,9 @@
 <?php
 
-if(isset($_POST["submit"])){
-    $phone = $_POST["phone"];
-    $email = $_POST["email"];
-}
+// if(isset($_POST["submit"])){
+//     $phone = $_POST["phone"];
+//     $email = $_POST["email"];
+// }
 
 // PHP Data Objects(PDO) Sample Code:
 // try {
@@ -16,9 +16,9 @@ if(isset($_POST["submit"])){
 // }
 
 // SQL Server Extension Sample Code:
-// $connectionInfo = array("UID" => "lsadmin@lendingsquare", "pwd" => "P@55word@2016_", "Database" => "lendingsquare", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
-// $serverName = "tcp:lendingsquare.database.windows.net,1433";
-// $conn = sqlsrv_connect($serverName, $connectionInfo);
+$connectionInfo = array("UID" => "lsadmin@lendingsquare", "pwd" => "P@55word@2016_", "Database" => "lendingsquare", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
+$serverName = "tcp:lendingsquare.database.windows.net,1433";
+$conn = sqlsrv_connect($serverName, $connectionInfo);
 
 // if($conn){
 //     echo "Successfull";

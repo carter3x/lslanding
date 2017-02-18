@@ -35,9 +35,9 @@
                     <nav class="width-navigation table-cell">
                         <ul class="nav navbar-nav menu-main-menu side-nav" id="mobile-demo">
                             <li class="menu-item-has-children">
-                                <a href="#home">Home</a>
+                                <!--<a href="#home">Home</a>-->
                                 <ul class="sub-menu">
-                                    <li><a href="index.html">Home</a></li>
+                                    <!--<li><a href="index.html">Home</a></li>-->
 
                                 </ul>
                             </li>
@@ -45,10 +45,10 @@
                                 <ul>
                                     <li id="landingpage_social_widget-1" class="widget wrapper_widget_social">
                                         <div class="widget-social">
-                                            <a href="http://facebook.com/physcode" target="_blank" class="bws-facebook">
+                                            <a href="https://www.facebook.com/lendingsquare" target="_blank" class="bws-facebook">
                                                 <i class="fa fa-facebook"></i>
                                             </a>
-                                            <a href="http://twitter.com/physcode" target="_blank" class="bws-twitter">
+                                            <a href="https://twitter.com/lendingsquare" target="_blank" class="bws-twitter">
                                                 <i class="fa fa-twitter"></i>
                                             </a>
                                         </div>
@@ -142,9 +142,8 @@
                                                     <input type="email" class="form-control emailInfo" placeholder="mail@-email.com" name="email" value="">
                                                 </div>
 
-                                                <div class="col-lg-12 col-md-12 submit-btn">
-                                            
-                                                <input type="submit" name="submit" class="btn btn-primary center-block" value="Enter">
+                                            <div class="col-lg-12 col-md-12"  style="margin-top:1.5em;" >
+                                                <input type="submit" name="submit" class="btn btn-primary center-block submit-btn" value="Enter">
                                             </div>
                                             </form>
                                             
@@ -186,7 +185,7 @@
                                             <h6 style="color:#3c3d41" class="heading__primary">LOAN</h6>
                                         </div>
                                         <div class="desc-icon-box">
-                                            <div>A set of 130 elements, perfectly fitting each other.</div>
+                                            <!--<div>Get money when you need it and repay at your own pace faster and easily</div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -199,7 +198,7 @@
                                             <h6 style="color:#3c3d41" class="heading__primary">INVESTMENT</h6>
                                         </div>
                                         <div class="desc-icon-box">
-                                            <div>An excellent way of preparing a project’s wireframe.</div>
+                                            <!--<div>Compare and choose investment packages from a wid array of options that meets your financial goal and income</div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -214,7 +213,7 @@
                                             <h6 style="color:#3c3d41" class="heading__primary">INSURANCE</h6>
                                         </div>
                                         <div class="desc-icon-box">
-                                            <div>The app is not only based on artists or albums</div>
+                                            <!--<div>Compare and choose the best insurance offers on the market.</div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -227,7 +226,7 @@
                                             <h6 style="color:#3c3d41" class="heading__primary">BUDGETS</h6>
                                         </div>
                                         <div class="desc-icon-box">
-                                            <div>A set of 130 elements, perfectly fitting each other.</div>
+                                            <!--<div>Create your budget easily. Balance your income and expenses intelligently and seamlessly</div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -244,7 +243,7 @@
                                             <h6 style="color:#3c3d41" class="heading__primary">BILLS</h6>
                                         </div>
                                         <div class="desc-icon-box">
-                                            <div>A set of 130 elements, perfectly fitting each other.</div>
+                                            <!--<div>Track and pay blls with ease. Get alerts and schedule payments on the spot.</div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -257,7 +256,7 @@
                                             <h6 style="color:#3c3d41" class="heading__primary">TRANSFERS</h6>
                                         </div>
                                         <div class="desc-icon-box">
-                                            <div>An excellent way of preparing a project’s wireframe.</div>
+                                            <!--<div>An excellent way of preparing a project’s wireframe.</div>-->
                                         </div>
                                     </div>
                                 </div>
