@@ -134,18 +134,20 @@
 
                                         </div>
                                         <div class="col-lg-12 col-md-12 info-form" style="margin-top: 1.5em">
-                                            <form class="form">
+                                            <form class="form" action="process/data.php" method="POST">
                                                 <div class="col-lg-6 col-md-6 mini-info phone-info ">
-                                                    <input type="phone" class="form-control phoneInfo" placeholder="+233-phone" name="" value="">
+                                                    <input type="phone" class="form-control phoneInfo" placeholder="+233-phone" name="phone" value="">
                                                 </div>
                                                 <div class="col-lg-6 col-md-6 mini-info email-info">
-                                                    <input type="email" class="form-control emailInfo" placeholder="mail@-email.com" name="" value="">
+                                                    <input type="email" class="form-control emailInfo" placeholder="mail@-email.com" name="email" value="">
                                                 </div>
-                                            </form>
-                                            <div class="col-lg-12 col-md-12 submit-btn">
+
+                                                <div class="col-lg-12 col-md-12 submit-btn">
+                                            
                                                 <input type="submit" name="submit" class="btn btn-primary center-block" value="Enter">
                                             </div>
-
+                                            </form>
+                                            
                                         </div>
                                     </div>
                                 </div>
