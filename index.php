@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex,follow">
-    <title>Landing Page – HTML site</title>
+    <title>LendingSquare - Loans | Investments | Personal Finance</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans" rel="stylesheet">
     <link rel="stylesheet" id="bootstrap-css" href="assets/css/bootstrap.min.css" type="text/css" media="all">
     <link rel="stylesheet" id="font-awesome-css" href="assets/css/font-awesome.min.css" type="text/css" media="all">
