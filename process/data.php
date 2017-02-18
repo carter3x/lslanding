@@ -16,16 +16,16 @@ if(isset($_POST["submit"])){
 // }
 
 // SQL Server Extension Sample Code:
-$connectionInfo = array("UID" => "lsadmin@lendingsquare", "pwd" => "P@55word@2016_", "Database" => "lendingsquare", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
-$serverName = "tcp:lendingsquare.database.windows.net,1433";
-$conn = sqlsrv_connect($serverName, $connectionInfo);
+// $connectionInfo = array("UID" => "lsadmin@lendingsquare", "pwd" => "P@55word@2016_", "Database" => "lendingsquare", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
+// $serverName = "tcp:lendingsquare.database.windows.net,1433";
+// $conn = sqlsrv_connect($serverName, $connectionInfo);
 
-if($conn){
-    echo "Successfull";
-}
-else{
-    echo "Not";
-}
+// if($conn){
+//     echo "Successfull";
+// }
+// else{
+//     echo "Not";
+// }
 
 echo $phone ."<br />". $email;
 ?>
