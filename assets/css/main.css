@@ -1,0 +1,14 @@
+.info-form {
+    padding: 10px;
+}
+
+.mini-info,
+.info-form>.submit-btn {
+    margin-top: 1.5em;
+}
+
+.phoneInfo,
+.emailInfo {
+    border-radius: 0px;
+    border-left: 3px solid #6a0593;
+}
